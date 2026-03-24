@@ -1,0 +1,10 @@
+# Ignorar arquivos compilados
+output/*.exe
+
+# Arquivos temporários de IDEs (opcional)
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.tmp
