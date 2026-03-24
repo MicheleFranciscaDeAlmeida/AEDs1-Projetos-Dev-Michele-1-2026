@@ -23,25 +23,25 @@ Cada arquivo `.c` contém um exercício específico, cobrindo conceitos como:
 
 Índice de Exercícios
 
-| Exercício | Descrição | Link |
-|-----------|-----------|------|
-| 1  | Exercício 1 de lógica básica | [Exercício1.c](prática/Exercício1.c) |
-| 2  | Exercício 2 de operações matemáticas | [Exercício2.c](prática/Exercício2.c) |
-| 3  | Exercício 3 de controle de fluxo | [Exercício3.c](prática/Exercício3.c) |
-| 4  | Exercício 4 de arrays | [Exercício4.c](prática/Exercício4.c) |
-| 5  | Exercício 5 de strings | [Exercício5.c](prática/Exercício5.c) |
-| 6  | Exercício 6 de funções | [Exercício6.c](prática/Exercício6.c) |
-| 7  | Exercício 7 de modularização | [Exercício7.c](prática/Exercício7.c) |
-| 8  | Exercício 8 de estruturas condicionais | [Exercício8.c](prática/Exercício8.c) |
-| 9  | Exercício 9 de loops | [Exercício9.c](prática/Exercício9.c) |
-| 10 | Exercício 10 de manipulação de dados | [Exercício10.c](prática/Exercício10.c) |
-| 11 | Exercício 11 de operações avançadas | [Exercício11.c](prática/Exercício11.c) |
-| 12 | Exercício 12 de lógica combinada | [Exercício12.c](prática/Exercício12.c) |
-| 13 | Exercício 13 de problemas de prática | [Exercício13.c](prática/Exercício13.c) |
-| 14 | Exercício 14 de lógica | [Exercício14.c](prática/Exercício14.c) |
-| 15 | Exercício 15 de funções e loops | [Exercício15.c](prática/Exercício15.c) |
-| 16 | Exercício 16 de modularização | [Exercício16.c](prática/Exercício16.c) |
-| 17 | Exercício 17 de desafios finais | [Exercício17.c](prática/Exercício17.c) |
+| Exercício | Descrição | Conceitos | Link |
+|-----------|-----------|-----------|------|
+| 1  | Área e perímetro do retângulo | Entrada/saída, operações matemáticas | [Exercício1.c](prática/Exercício1.c) |
+| 2  | Área do trapézio | Entrada/saída, cálculos matemáticos | [Exercício2.c](prática/Exercício2.c) |
+| 3  | Áreas | Operações matemáticas, múltiplos cálculos | [Exercício3.c](prática/Exercício3.c) |
+| 4  | Retângulo: área, perímetro e diagonal | Matemática, uso de fórmula | [Exercício4.c](prática/Exercício4.c) |
+| 5  | Salário e horas trabalhadas | Entrada/saída, cálculos | [Exercício5.c](prática/Exercício5.c) |
+| 6  | Consumo de combustível | Operações matemáticas | [Exercício6.c](prática/Exercício6.c) |
+| 7  | Positivo, negativo ou zero | `if`, `else` | [Exercício7.c](prática/Exercício7.c) |
+| 8  | Maior de dois números | `if`, `else` | [Exercício8.c](prática/Exercício8.c) |
+| 9  | Par ou ímpar | `if`, operador `%` | [Exercício9.c](prática/Exercício9.c) |
+| 10 | Média com situação | `if`, `else if`, `else` | [Exercício10.c](prática/Exercício10.c) |
+| 11 | Maior de três números | `if`, lógica condicional | [Exercício11.c](prática/Exercício11.c) |
+| 12 | Múltiplos | `if`, operador `%` | [Exercício12.c](prática/Exercício12.c) |
+| 13 | Intervalo | `if`, operadores relacionais | [Exercício13.c](prática/Exercício13.c) |
+| 14 | Intervalos múltiplos | `if`, `else if` | [Exercício14.c](prática/Exercício14.c) |
+| 15 | Lanche (clássico de prova) | `switch` ou `if`, lógica de seleção | [Exercício15.c](prática/Exercício15.c) |
+| 16 | Aumento de salário | `if`, `else if`, porcentagem | [Exercício16.c](prática/Exercício16.c) |
+| 17 | Tipo de triângulo | `if`, lógica matemática | [Exercício17.c](prática/Exercício17.c) |
 
 Como Usar
 

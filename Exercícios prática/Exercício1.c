@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Exercício 1 – Área e perímetro do retângulo */
 int main()
 {
 

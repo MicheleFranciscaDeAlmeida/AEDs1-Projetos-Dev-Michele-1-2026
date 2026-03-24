@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-/* Exercício 4 - Retângulo completo
+/* Exercício 4 - Retângulo, área, perímetro e diagonal
 Leia base e altura. Mostre:
 
 Área

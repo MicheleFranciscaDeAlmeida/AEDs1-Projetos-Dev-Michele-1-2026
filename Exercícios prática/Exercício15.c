@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Exercício 9 – Lanche (clássico de prova)
+Exercício 15 – Lanche (clássico de prova)
 
 Uma lanchonete possui o seguinte cardápio:
 

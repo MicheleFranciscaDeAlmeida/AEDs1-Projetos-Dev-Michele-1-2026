@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/* Exercício 8 – Maior de dois números
 Leia dois valores inteiros A e B e mostre:
 
 MAIOR: ...

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 11 – Tipo de triângulo
+/* Exercício 17 – Tipo de triângulo
 
 Leia três valores reais A, B e C e diga se formam um triângulo.
 

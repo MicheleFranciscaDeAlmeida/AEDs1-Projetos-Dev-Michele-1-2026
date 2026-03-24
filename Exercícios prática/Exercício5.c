@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 5 - Salário
+/* Exercício 5 - Salário e horas trabalhadas
 Leia o número de horas trabalhadas e o valor por hora.
 Calcule e mostre o salário.
 

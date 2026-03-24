@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Exercício 10 – Aumento de salário
+Exercício 16 – Aumento de salário
 
 Leia o salário de uma pessoa e calcule o novo salário baseado em:
 

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Exercício 3 – Par ou Ímpar
+Exercício 9 – Par ou Ímpar
 
 Leia um número inteiro e mostre:
 

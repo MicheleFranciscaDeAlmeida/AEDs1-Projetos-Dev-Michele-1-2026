@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 7 – Intervalo
+/* Exercício 13 – Intervalo
 
 Leia um número real e informe:
 

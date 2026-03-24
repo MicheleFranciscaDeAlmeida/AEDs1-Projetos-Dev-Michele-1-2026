@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 8 – Intervalos múltiplos
+/* Exercício 14 – Intervalos múltiplos
 
 Leia um número real e informe em qual intervalo ele está:
 

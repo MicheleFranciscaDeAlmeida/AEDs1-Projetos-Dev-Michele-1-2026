@@ -2,7 +2,8 @@
 
 // Início do programa
 int main()
-{
+{ /* Exercício 2 – Área do trapézio 
+*/
     // Declaração das variáveis para as bases e altura do trapézio
     float basemaior, basemenor, altura;
 

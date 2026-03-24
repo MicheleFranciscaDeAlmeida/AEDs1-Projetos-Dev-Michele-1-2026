@@ -2,7 +2,7 @@
 
 int main()
 {
-    /*
+    /* Exercício 3 – Áreas
     Ler três valores reais A, B e C, calcular area do triângulo retângulo que tem A por base e C por altura,
     calcular a área do círculo de raio C, calcular a área do trapézio que tem A e B por bases e C por altura.
     Apresentar os resultados com 3 casas decimais. Saída:

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 1 – Positivo, Negativo ou Zero
+/* Exercício 7 – Positivo, Negativo ou Zero
 
 Leia um número real e mostre:
 
